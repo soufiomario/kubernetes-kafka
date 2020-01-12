@@ -1,4 +1,4 @@
-# Kafka for Kubernetes
+# Kafka for Kubernetes(SDTD)
 
 This community seeks to provide:
  * Production-worthy Kafka setup for persistent (domain- and ops-) data at small scale.
